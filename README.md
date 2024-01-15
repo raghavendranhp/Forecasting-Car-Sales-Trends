@@ -23,6 +23,8 @@ The goal of this project is to develop robust time series forecasting models cap
 ## Project Structure
 
 - **data:** Contains datasets related to car sales in the UK.
+  Dataset From 1.[link](https://deepvisualmarketing.github.io/),
+               2.[Kaggle](https://www.kaggle.com/datasets/ddosad/auto-sales-data/data)
 - **notebooks:** Jupyter notebooks with data exploration, model training, and evaluation.
 - **models:** Saved models or model-related files.
 - **results:** Visualizations and results generated during the analysis.
@@ -54,7 +56,7 @@ The goal of this project is to develop robust time series forecasting models cap
 
 2. **Navigate to the Project Directory:**
    ```bash
-   cd car-sales-forecast-uk
+   cd Sources Sales_table
    ```
 
 3. **Install Dependencies:**
